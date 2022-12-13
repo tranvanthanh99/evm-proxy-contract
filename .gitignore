@@ -1,0 +1,12 @@
+contracts/_transparentProxy.sol 
+node_modules
+.openzeppelin
+artifacts
+cache
+
+.deps
+.env
+.history
+
+typechain
+typechain-types
